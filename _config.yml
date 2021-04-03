@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Hao Zhou"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "RA and Engnieer"
   location         : "Chong Qing"
-  employer         :
+  employer         : "Chong Qing Innovation Center"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "haozh@cqu.edu.cn"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
