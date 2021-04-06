@@ -14,7 +14,7 @@ I am now research assistant working at Chong Qing Innovation Center, Chong Qing,
 
 My major interest is flexible robot, mainly for manipulator. I am now interested in the field of Manipulation, computer vision, and force control to make robot intelligent.
 
-![](../../source/images/about/grasp.gif)
+![](../images/grasp.gif)
 
 
 
